@@ -1,4 +1,4 @@
-# Amazon-Sales-Operations-Dashboard.
+
 # Amazon Sales & Operations Performance Dashboard
 
 ## Project Overview
