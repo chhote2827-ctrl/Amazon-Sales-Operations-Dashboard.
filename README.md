@@ -9,9 +9,9 @@ This project provides an end-to-end analysis of Amazon Sales & Operations perfor
 - **Total Orders:** 7K
 - **Average Order Value (AOV):** 580.40
 - **Return Rate %:** 1.92%
-
 ## Dashboard Preview
-![Amazon Dashboard](![Dashboard Preview](Screenshot%202026-09-21%20141731.png))
+
+![Amazon Dashboard](Screenshot%202026-09-21%20141731.png)
 
 ## Key Insights
 1. **Top States:** Maharashtra and Karnataka drive the highest revenue.
